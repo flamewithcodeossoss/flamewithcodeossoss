@@ -24,26 +24,24 @@
 
 ###
 
-<h2 align="center">Hi I'm Osama Naguib</h2>
-<h3 align="center">AI Engineer · GenAI · AI Agents · NLP</h3>
-
-###
-
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="center">Osama Mohamed Naguib</h2>
+<h3 align="center">AI Engineer | GenAI · AI Agents · NLP · Computer Vision</h3>
 
 ###
 
 <p align="left">
-I'm an AI Engineer<br>
-🔭 Focused on: <strong>LangGraph · LLM Agents · RAG Systems · Computer Vision · AI Automation</strong><br>
-⚡ I build systems where LLMs reason, retrieve, and recover from their own mistakes.
+AI & Machine Learning Engineer based in Cairo, Egypt.<br>
+Currently building intelligent automation systems at <strong>Advanced Control System (ACS)</strong> — Self-Healing RAG pipelines, NL-to-SQL agents, and SCADA monitoring across smart cities.<br><br>
+B.Sc. in Artificial Intelligence — Kafr El-Sheikh University<br>
+M.Sc. in Machine Learning (ongoing) — Kafr El-Sheikh University<br>
+Focus: <strong>LangGraph · LLM Agents · RAG Systems · Computer Vision · AI Automation</strong>
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flamewithcodeossoss.flamewithcodeossoss" />
 
 ###
 
-<h2 align="left">🖥️ Languages</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -63,7 +61,7 @@ I'm an AI Engineer<br>
 
 ###
 
-<h2 align="left">🤖 AI / ML Frameworks & Tools</h2>
+<h2 align="left">AI / ML Frameworks & Tools</h2>
 
 ###
 
@@ -89,7 +87,7 @@ I'm an AI Engineer<br>
 
 ###
 
-<h2 align="left">⚙️ Backend & APIs</h2>
+<h2 align="left">Backend & APIs</h2>
 
 ###
 
@@ -105,7 +103,7 @@ I'm an AI Engineer<br>
 
 ###
 
-<h2 align="left">🗄️ Databases</h2>
+<h2 align="left">Databases</h2>
 
 ###
 
@@ -125,7 +123,7 @@ I'm an AI Engineer<br>
 
 ###
 
-<h2 align="left">☁️ DevOps & Cloud</h2>
+<h2 align="left">DevOps & Cloud</h2>
 
 ###
 
@@ -143,7 +141,7 @@ I'm an AI Engineer<br>
 
 ###
 
-<h2 align="left">💻 IDEs</h2>
+<h2 align="left">IDEs</h2>
 
 ###
 
@@ -157,7 +155,7 @@ I'm an AI Engineer<br>
 
 ###
 
-<h2 align="left">🐧 OS</h2>
+<h2 align="left">OS</h2>
 
 ###
 
@@ -175,12 +173,6 @@ I'm an AI Engineer<br>
   <img src="https://github-readme-stats.vercel.app/api?username=flamewithcodeossoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flamewithcodeossoss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/flamewithcodeossoss/flamewithcodeossoss/output/snake.svg" alt="Snake animation" />
 
 ###
 
