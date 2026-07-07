@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">Hi 👋 I'm Osama Naguib</h2>
+<h2 align="center">Hi I'm Osama Naguib</h2>
 <h3 align="center">AI Engineer · GenAI · AI Agents · NLP</h3>
 
 ###
