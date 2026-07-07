@@ -25,16 +25,14 @@
 ###
 
 <h2 align="center">Osama Mohamed Naguib</h2>
-<h3 align="center">AI Engineer | GenAI · AI Agents · NLP · Computer Vision</h3>
+<h3 align="center">AI Engineer | GenAI · AI Agents · NLP</h3>
 
 ###
 
 <p align="left">
-AI & Machine Learning Engineer based in Cairo, Egypt.<br>
-Currently building intelligent automation systems at <strong>Advanced Control System (ACS)</strong> — Self-Healing RAG pipelines, NL-to-SQL agents, and SCADA monitoring across smart cities.<br><br>
-B.Sc. in Artificial Intelligence — Kafr El-Sheikh University<br>
-M.Sc. in Machine Learning (ongoing) — Kafr El-Sheikh University<br>
-Focus: <strong>LangGraph · LLM Agents · RAG Systems · Computer Vision · AI Automation</strong>
+AI <br>
+Currently building intelligent automation systems .<br><br>
+Focus: <strong>NLP · LLMs · RAG Systems · GenAI · AI Automation</strong>
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flamewithcodeossoss.flamewithcodeossoss" />
