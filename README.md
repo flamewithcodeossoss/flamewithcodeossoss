@@ -28,10 +28,6 @@
 <h3 align="center">AI Engineer | GenAI · AI Agents · NLP</h3>
 
 ###
-
-<p align="left">
-AI <br>
-Currently building intelligent automation systems .<br><br>
 Focus: <strong>NLP · LLMs · RAG Systems · GenAI · AI Automation</strong>
 </p>
 
