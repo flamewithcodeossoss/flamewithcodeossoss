@@ -1,11 +1,11 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&desc[...]
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6bHV2bGt4aHBuNzBnZHZtcWd3dWVmcHV1NzJ1ZzNwMGcyNXdrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6bHV2bGt4aHBuNzBnZHZtcWd3dWVmcHV1NzJ1ZzNwMGcyNXdrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif[...]
 </div>
 
 ###
@@ -41,6 +41,8 @@ Focus: <strong>NLP · LLMs · RAG Systems · GenAI · AI Automation</strong>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
